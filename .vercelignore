@@ -1,0 +1,8 @@
+.git
+.gitignore
+.vercel
+dados.txt
+dossie_autoescola.md
+README.md
+video/
+*.log
